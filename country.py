@@ -1,4 +1,4 @@
-#Author:  Qian Ding & Tigran Hakobyan 
+#Author:  Tigran Hakobyan 
 
 # Determines the 3 countries with the most tweets that were not retweeted. 
 
